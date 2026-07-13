@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Anmol and this is my journey to become a cloud engineer in 2026
+My name is Anmol and this is my journey to become a cloud engineer in 2026 and thid is my main repo which I'll be using as a log for my roadmap
 <!--
 **anmolll28riyal/anmolll28riyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
